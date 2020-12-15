@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NetworkingExamples2</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="empty_username">UserName Can\'t be Empty</string>
+    <string name="empty_password">Password Can\'t be Empty</string>
+    <string name="general_error">"Something Unexpected Happend "</string>
+    <string name="error_no_connection">No internet connection</string>
+    <string name="error_no_network">You are not connected to any network</string>
+    <string name="error_auth_fail">Auth Failed</string>
+    <string name="error_timeout">It\'s lates more than expected please try again later</string>
+    <string name="error_server">Server down, try agin later</string>
+</resources>
